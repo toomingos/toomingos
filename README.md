@@ -7,7 +7,7 @@
 -While working as a consultant and freelancer for Web3 projects, I've worked as a Product Manager and Business Development in the past, developing the 1st fully working NFT Marketplace in the Apple Store.
 -My main coding language is Python
 
-- The available repositories are projects developed mainly during Master Degree.
+- The available repositories are projects developed mainly during Master Degree and personal development projects
 
 <h4 align="left">Skills: </h3>
 
