@@ -1,5 +1,5 @@
 <h1 align="center">Tomás Domingos</h1>
-<h3 align="center">Product Manager, Business Analyst & Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 
 
